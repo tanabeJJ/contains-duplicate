@@ -1,6 +1,6 @@
-class Solution {
+class containsDuplicate {
     public static void main(String[] args) {
-      Solution ins = new Solution();
+      containsDuplicate ins = new containsDuplicate();
       int[] arr = {1,2,3,1};
       System.out.println(ins.containsDuplicate(arr) == true);
       int[] arr2 = {1,2,3,4};
